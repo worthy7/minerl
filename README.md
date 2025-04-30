@@ -29,7 +29,7 @@ MineRL consists of three unique versions, each with a slightly different sets of
 
 ## Installation
 
-Install [requirements](https://minerl.readthedocs.io/en/latest/tutorials/index.html) (Java JDK 8 is **required**. Mac may require [additional steps](https://github.com/minerllabs/minerl/issues/659#issuecomment-1306635414)) and then install MineRL with
+Install [requirements](https://minerl.readthedocs.io/en/latest/tutorials/index.html) (Java JDK 8 is **required** and `JAVA_HOME` environmental variable must correctly reference a JDK 8 folder. Mac may require [additional steps](https://github.com/minerllabs/minerl/issues/659#issuecomment-1306635414)) and then install MineRL with
 ```
 pip install git+https://github.com/minerllabs/minerl
 ```
